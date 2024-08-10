@@ -1,0 +1,12 @@
+*/__pycache__
+
+# pip3 install -e .
+Task_Tracker_CLI.egg-info/
+__pycache__/
+
+# python3 setup.py install
+build/
+dist/
+
+# file system
+tasks.json

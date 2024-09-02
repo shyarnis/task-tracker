@@ -88,3 +88,6 @@ task-cli --delete 1
 ```bash
 pip uninstall task-cli
 ```
+
+### References
+- [More Info](https://roadmap.sh/projects/task-tracker)
